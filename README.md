@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ## Interactive Study Guide
 Explore my interactive study guide [here](2P02 Interactive Study Guide.html)
+My Speculative Fiction and my Mini-essay [here] (Speculative Fiction Mitch.pdf)
+
 
