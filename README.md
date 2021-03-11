@@ -20,6 +20,9 @@ Explore my interactive study guide [here](2P02 Interactive Study Guide.html)
 ## Speculative Fiction
 My Speculative Fiction and my Mini-essay [here](Speculative Fiction Mitch.pdf) 
 
+## Interactive Genealogy
+Explore my interactive study guide [here](2p02 interactive geneology.html)
+
 
 
 
